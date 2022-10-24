@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.app-title {
+  margin-top: 50px;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 75px;
+  color: #61dafb;
+}
 
 @keyframes App-logo-spin {
   from {
